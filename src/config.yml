@@ -1,0 +1,11 @@
+# Here you can configure the length in characters of each message type
+
+# Messages less than this many characters will play the 'short' sound effect
+short: 12
+# Messages less than this many characters will play the 'medium' sound effect
+medium: 25
+# Messages less than this many characters will play the 'long' sound effect
+long: 50
+# Any messages longer than 'long' will play the 'very_long' sound effect
+
+# NOTE: if you screw up the order of the numbers and they are not in ascending order it might not work at all

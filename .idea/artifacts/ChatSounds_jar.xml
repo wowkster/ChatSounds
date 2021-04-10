@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatSounds:jar">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="ChatSounds.jar">
+      <element id="module-output" name="ChatSounds" />
+    </root>
+  </artifact>
+</component>

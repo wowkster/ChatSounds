@@ -1,0 +1,11 @@
+name: ChatSounds
+version: 1.0
+api-version: 1.14
+main: com.adrianwowk.chatsounds.Main
+permissions:
+  chatsounds.speak:
+    default: false
+  chatsounds.reload:
+    default: op
+commands:
+  chatsounds:
